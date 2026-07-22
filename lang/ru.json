@@ -1059,8 +1059,8 @@
       "condition": "Узрите далёкий вид в Foliage Estate."
     },
     "sunken_city": {
-      "name": "Inundated Dreams",
-      "description": "\"The sound of the lost dreams still reverberates in the stagnant air. It feels... asphyxiating, to say the least.\"",
+      "name": "Затопленные сны",
+      "description": "\"Отголоски утраченных грёз до сих пор эхом раздаются в застоявшемся воздухе. Это... мягко говоря, удушает.\"",
       "condition": "Доберитесь до Sunken City."
     },
     "celestial": {
@@ -5976,9 +5976,9 @@
       "condition": "Reach the third area in Legacy of Ruin"
     },
     "outskirts_usugurai_residence": {
-      "name": "The Bat-Wolf that Watched the Outskirts",
-      "description": "\"Aren't you bored from sitting up there all day?\"",
-      "condition": "Reach the outskirts of Usugurai Residence"
+      "name": "Бэт-волк, что смотрит на окраины",
+      "description": "\"Ты не устал сидеть здесь днями напролёт?\"",
+      "condition": "Доберитесь до окраин Usugurai Residence"
     },
     "sepia_cloud_gardens": {
       "name": "100 Dreams",
@@ -7141,9 +7141,9 @@
       "condition": "Be petted by the big pink bug while wearing the Insect effect in Glowing Hives"
     },
     "chopstick_rice_bowl_world": {
-      "name": "Chopstick Man",
-      "description": "What a cute little creature!",
-      "condition": "Interact with one of the chopstick creatures in Rice Bowl World"
+      "name": "Ожившие палочки для еды",
+      "description": "Какое милое создание!",
+      "condition": "Взаимодействуйте с существом из палочек для еды в Rice Bowl World"
     },
     "field_of_cosmos": {
       "name": "Harmony of Record",
@@ -8130,9 +8130,9 @@
       "condition": "Interact with Shadow Urotsuki in 'Dysmorphia'"
     },
     "aquatic_prairie_visit": {
-      "name": "Flooded Reeds",
-      "description": "Remnants of a long-submerged grassland",
-      "condition": "Visit Aquatic Prairie"
+      "name": "Затопленный тростник",
+      "description": "Остатки ушедших под воду лугов",
+      "condition": "Посетите Aquatic Prairie"
     },
     "blue_undergrowth_money": {
       "name": "Money from a Stranger",
@@ -8237,9 +8237,9 @@
       "condition": "See the effect reactions from the Eel Dragon"
     },
     "regular_atelier_visit": {
-      "name": "Reminiscent Workshop",
-      "description": "I've been to these paintings before!",
-      "condition": "Visit Atelier"
+      "name": "Знакомая мастерская",
+      "description": "Я уже была в этих картинах!",
+      "condition": "Посетите Atelier"
     },
     "sunlit_winter_woods_visit": {
       "name": "A Bright Winter Day",
@@ -8405,9 +8405,9 @@
       "condition": "Equip the Ultraviolet Urotsuki mask in Red Sun Outlook"
     },
     "darkwoven_void_visit": {
-      "name": "What Once Was A World",
-      "description": "Now covered in darkness.",
-      "condition": "Visit the Darkwoven Void"
+      "name": "Там, где раньше был мир",
+      "description": "Теперь стелется тьма.",
+      "condition": "Посетите Darkwoven Void"
     },
     "jump_rope_time": {
       "name": "Smiling Critter",
