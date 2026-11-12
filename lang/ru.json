@@ -1011,7 +1011,7 @@
       "condition": "Используйте Очки или Надгробие, чтобы увидеть обитателей Ancient Hydrangea City."
     },
     "originator_garden": {
-      "name": "Secrets Unraveled",
+      "name": "Разгаданные тайны",
       "condition": "Войдите в основную зону Originator Garden."
     },
     "bsides": {
@@ -3542,8 +3542,8 @@
     },
     "sands_of_self": {
       "name": "Suipelagic",
-      "description": "In an ocean of one's self.",
-      "condition": "Visit Sands of Self"
+      "description": "Путешествие по океану собственного \"я\".",
+      "condition": "Посетите Sands of Self"
     },
     "mountaintop_ruins": {
       "name": "Mountaintop Ruins",
@@ -3938,9 +3938,9 @@
       "condition": "Interact with the ghost on the fourth floor of the Techno Condominium"
     },
     "b_w_challenge": {
-      "name": "Black and White",
-      "description": "And also red, sometimes...",
-      "condition": "Visit the following monochrome worlds: Monochrome School, Monochrome Wastelands, Monochrome Feudal Japan, Monochromatic Abyss, Fused Faces World, Sea of Clouds, Monochrome Ranch, Monochrome Street, Doll House",
+      "name": "Чёрно-белое",
+      "description": "А порой и красное...",
+      "condition": "Посетите следующие монохромные миры: Monochrome School, Monochrome Wastelands, Monochrome Feudal Japan, Monochromatic Abyss, Fused Faces World, Sea of Clouds, Monochrome Ranch, Monochrome Street, Doll House",
       "checkbox": {
         "b_w_mono_school_a|b_w_mono_school_b": "Monochrome School",
         "b_w_mono_wastelands": "Monochrome Wastelands",
@@ -4047,8 +4047,8 @@
       "condition": "Reach the Black Rose World of House Over the Rainbow in {TIME} or less in Time Trial Mode"
     },
     "frozen_glade": {
-      "name": "Travesty",
-      "description": "An abundance of snowflakes.",
+      "name": "Карикатура",
+      "description": "Бесконечное множество снежинок.",
       "condition": "Посетите Frozen Glade"
     },
     "vm_kitsune_residence": {
@@ -5944,9 +5944,9 @@
       "condition": "Try the two menu styles at the Nerium Lab"
     },
     "rose_factory": {
-      "name": "Resilient Rose",
-      "description": "\"Amidst the myriads of mechanizations scattered inside this factory, rosebuds grew on the edge of light, the light of the sunsetting sky.\"",
-      "condition": "Visit Rose Factory"
+      "name": "Непреклонная роза",
+      "description": "\"Среди бесчисленных механизмов, разбросанных по этому заводу, распустились бутоны красных роз. Заходящее солнце проливает на них последние отблески своего света.\"",
+      "condition": "Посетите Rose Factory"
     },
     "chainlink_purple_world": {
       "name": "Plance Dants",
@@ -7088,9 +7088,9 @@
       "condition": "Interact with the green creature in the north part of Highway"
     },
     "fall_shoal": {
-      "name": "Undulating Fall Ears",
-      "description": "Autumn ears are waving their hands...",
-      "condition": "Visit Fall Shoal"
+      "name": "Колыхание колосьев",
+      "description": "Осенние колоски машут тебе рукой...",
+      "condition": "Посетите Fall Shoal"
     },
     "boy_cake_room_pleasure_street": {
       "name": "Secret of the Cake Room",
@@ -7148,9 +7148,9 @@
       "condition": "Взаимодействуйте с существом из палочек для еды в Rice Bowl World"
     },
     "field_of_cosmos": {
-      "name": "Floral Sincerity ",
-      "description": "Every step I take, flowers bloom, they lead me to tranquility, the flora embraces me and everything feels okay again.",
-      "condition": "Visit Field of Cosmos"
+      "name": "Цветочная искренность",
+      "description": "С каждым шагом под моими ногами распускаются цветы. Они ведут меня к безмятежности, заключают в свои объятия — и кажется, что всё снова становится хорошо.",
+      "condition": "Посетите Field of Cosmos"
     },
     "sky_outlook_port_city": {
       "name": "Cloud Gazing",
@@ -7651,8 +7651,8 @@
       "condition": "Встретьтесь с Лавандой в Зеркальном озере Blue Cactus Islands."
     },
     "2kki_bluescreen": {
-      "name": "I Just Fixed You!",
-      "description": "I spent 900 Uro's getting this fixed! What a scam! :(",
+      "name": "Тебя же только что починили!",
+      "description": "Я отдала за ремонт целых 900 Уро! Какой-то развод! :(",
       "condition": "Доберитесь до Blue Screen Void."
     },
     "system_sounds_5": {
@@ -8818,7 +8818,7 @@
       "condition": "Obtain the Railroad Crossing effect. If you have already unlocked it, return to Heart World."
     },
     "2kki_visit_museums": {
-      "name": "Идол забытого мечтателя",
+      "name": "Идол забытого сновидца",
       "description": "Этот странный идол был найден в разрушенном японском храме. Никто не знает, что он символизирует, но от него исходит аномальное свечение. Идол был помещён в музей под надзор двоих охранников, которые по неясным причинам никогда не спускают с этой реликвии глаз...",
       "condition": "Посетите и Museum, и Dark Museum",
       "checkbox": {
@@ -9230,9 +9230,9 @@
       "condition": "See the gold dolphin in Vaporwave Mall"
     },
     "visit_hand_hub": {
-      "name": "Disco Hand",
-      "description": "Limbs on The Dance Floor!",
-      "condition": "Visit the Hand Hub"
+      "name": "Диско-руки",
+      "description": "Конечности жгут на танцполе!",
+      "condition": "Посетите Hand Hub"
     },
     "visit_animism": {
       "name": "Animistic spirits",
@@ -9942,8 +9942,8 @@
       "condition": "Interact with the Jukebox Stone in Bug Maze"
     },
     "monochrome_ranch": {
-      "name": "Cock-a-mow-mow",
-      "condition": "Visit Monochrome Ranch"
+      "name": "Кукаре-мууу!",
+      "condition": "Посетите Monochrome Ranch"
     },
     "visit_escher_path": {
       "name": "Intergalactic Jell-O Cubes!",
