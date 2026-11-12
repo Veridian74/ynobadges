@@ -593,27 +593,27 @@
   "2kki": {
     "compass": {
       "name": "Медаль путешественника",
-      "condition": "Complete expeditions to 25 unique locations"
+      "condition": "Совершите походы в 25 различных локаций"
     },
     "compass_bronze": {
       "name": "Бронзовая медаль путешественника",
-      "condition": "Complete expeditions to 50 unique locations"
+      "condition": "Совершите походы в 50 различных локаций"
     },
     "compass_silver": {
       "name": "Серебряная медаль путешественника",
-      "condition": "Complete expeditions to 100 unique locations"
+      "condition": "Совершите походы в 100 различных локаций"
     },
     "compass_gold": {
       "name": "Золотая медаль путешественника",
-      "condition": "Complete expeditions to 200 unique locations"
+      "condition": "Совершите походы в 200 различных локаций"
     },
     "compass_platinum": {
       "name": "Платиновая медаль путешественника",
-      "condition": "Complete expeditions to 400 unique locations"
+      "condition": "Совершите походы в 400 различных локаций"
     },
     "compass_diamond": {
       "name": "Алмазная медаль путешественника",
-      "condition": "Complete expeditions to 800 unique locations"
+      "condition": "Совершите походы в 800 различных локаций"
     },
     "uro_trophy_bronze": {
       "name": "Бронзовый трофей Уроцуки",
@@ -2264,7 +2264,7 @@
     },
     "terrarium_corridor": {
       "name": "Террариум",
-      "description": "Немного отдыха между древностью и отражённой реальностью.",
+      "description": "Небольшой перерыв между древностью и отражённой реальностью.",
       "condition": "Войдите в коридор-террариум между The Ceiling и Heian Era Village."
     },
     "shallows_of_deceit": {
@@ -2960,9 +2960,9 @@
       "condition": "Find the butcher in Realm of Gluttony"
     },
     "realm_of_gluttony": {
-      "name": "Feast for a Glutton",
-      "description": "A burger of indescribable flavor that is said to be out of this world! Whether it's true or not, is for you to find out.",
-      "condition": "Enter Realm of Gluttony"
+      "name": "Пир для обжор",
+      "description": "Легенда гласит о бургере с непередаваемым вкусом, который не сравним ни с чем в этом мире! А правда это или нет, предстоит узнать тебе.",
+      "condition": "Посетите Realm of Gluttony"
     },
     "sepia_clouds_creatures": {
       "name": "Nostalgic Clouds",
@@ -3328,7 +3328,7 @@
     },
     "2kki_warzone": {
       "name": "Взгляд на 2000 снов",
-      "description": "Кажется, она через многое прошла.",
+      "description": "Кажется, она многое повидала.",
       "condition": "Посетите Warzone"
     },
     "execution_hallway": {
@@ -3391,9 +3391,9 @@
       "condition": "Cause a thunderstorm to appear outside of Overgrown Condominium"
     },
     "wacky_worms": {
-      "name": "Wormy Wormers!",
-      "description": "Who's ready to embark on a worm odyssey?!",
-      "condition": "Enter Wacky Worms"
+      "name": "Червивые червячки!",
+      "description": "Нас ждёт червичная одиссея!",
+      "condition": "Посетите Wacky Worms"
     },
     "depths_aquarium": {
       "name": "Atlantis Aquarium",
@@ -3401,9 +3401,9 @@
       "condition": "Visit the aquarium in Depths"
     },
     "toy_desert_mushroom": {
-      "name": "Cute Mushrooms",
-      "description": "Awwww! Are you mushroom dogs?",
-      "condition": "Find mushrooms in Toy Desert"
+      "name": "Милые грибочки",
+      "description": "Какая прелесть! Вы грибные пёсики?",
+      "condition": "Найдите грибы в Toy Desert"
     },
     "chaser_collision_world": {
       "name": "LOOK OUT",
@@ -3580,9 +3580,9 @@
       "condition": "Use the Polygon effect near the lone tree in the Hexagonal Tile Factory of Critter Village"
     },
     "moonlight_rose_manor": {
-      "name": "Roses and Moonlight",
-      "description": "A breathtaking view that brings you serenity... and thorns to your sides.",
-      "condition": "See the moonlight view outside of the Rose Manor"
+      "name": "Розы в лунном свете",
+      "description": "Столь завораживающий вид дарует душевный покой... и риск уколоться шипами.",
+      "condition": "Взгляните на луну снаружи Rose Manor"
     },
     "hexagonal_pillar_psg": {
       "name": "Hexagonal Ruins",
@@ -3879,9 +3879,9 @@
       "condition": "Interact with the Light Lady on the Hopeful Road of the Pitch Black Plateau"
     },
     "lemonade_office_phone": {
-      "name": "Phone of Doom",
-      "description": "I'm not sorry.",
-      "condition": "Use the yellow phone in Lemonade Edifice"
+      "name": "Судьбоносный телефон",
+      "description": "Я ни о чём не жалею.",
+      "condition": "Воспользуйтесь жёлтым телефоном в Lemonade Edifice"
     },
     "paint_shop_pls_street": {
       "name": "It's All Sunshine and Rainbows",
@@ -4057,9 +4057,9 @@
       "condition": "Interact with the fox vending machine in Kitsune Residence"
     },
     "kitsune_residence": {
-      "name": "Fox Heaven",
-      "description": "Where all fox spirits come to rest",
-      "condition": "Reach Kitsune Residence"
+      "name": "Лисий рай",
+      "description": "Души всех лис находят здесь покой",
+      "condition": "Посетите Kitsune Residence"
     },
     "light_stargazing_puddle": {
       "name": "Star Puddles",
@@ -4435,18 +4435,18 @@
       "condition": "Visit the lovely pianist in Moonlit Street"
     },
     "moon_castles_cliff": {
-      "name": "The Castle's Satellite",
-      "condition": "Visit the cliff area of Moon and Castles"
+      "name": "Спутник замка",
+      "condition": "Посетите утёс в Moon and Castles"
     },
     "broken_shoal": {
-      "name": "Peaceful Ashes",
-      "description": "Who knew wrecks could be so beautiful?",
-      "condition": "Visit Broken Shoal"
+      "name": "Пепел спокойствия",
+      "description": "Даже не верится, что развалины могут быть настолько красивыми.",
+      "condition": "Посетите Broken Shoal"
     },
     "techno_rave_ruins": {
-      "name": "Hollow Rave",
-      "description": "Even without a soul to be seen, the party's still going on strong.",
-      "condition": "Visit Techno Rave Ruins"
+      "name": "Безжизненная тусовка",
+      "description": "Здесь ни души, но вечеринка всё же продолжается.",
+      "condition": "Посетите Techno Rave Ruins"
     },
     "sealed_rainbow_pillars": {
       "name": "Sealed Light",
@@ -4469,8 +4469,8 @@
     },
     "bloom_nineny_nine": {
       "name": "Bloom 99",
-      "description": "Blooming along with the music.",
-      "condition": "Visit Bloom 99"
+      "description": "Расцветай под музыку.",
+      "condition": "Посетите Bloom 99"
     },
     "wheat_field_wheat": {
       "name": "Field of Dreams",
@@ -5117,9 +5117,9 @@
       "condition": "Trigger the event that makes the Sierpinski Maze tentacle appears in Lamplit Stones"
     },
     "kite_adabana_gardens": {
-      "name": "Lost Kite",
-      "description": "Noo! My kite is stuck in the tree!",
-      "condition": "Find the kite stuck in a tree in Adabana Gardens"
+      "name": "Пропавший воздушный змей",
+      "description": "О нет! Мой воздушный змей запутался в листве!",
+      "condition": "Найдите упавшего на дерево воздушного змея в Adabana Gardens"
     },
     "blood_river_kaleidscope_w": {
       "name": "Crazy Kaleidoscopic Psychedelic Party",
@@ -5254,9 +5254,9 @@
       "condition": "Equip the cursor mask in ASCII Symbol Zone"
     },
     "english_thunder_ovlook": {
-      "name": "English Thunderstorm",
+      "name": "Английская гроза",
       "description": "But it's time to crush this feeling, as soon as it rains.",
-      "condition": "Reach the overlook in English Thundershower"
+      "condition": "Выйдите на балкон в English Thundershower"
     },
     "aquatic_c_c_bedroom_light": {
       "name": "Comfy Cubicle",
@@ -5549,8 +5549,8 @@
       "condition": "Equip the Lantern effect near the lonely man in the Tomato Hole of Domino Maze"
     },
     "myriad_blossoms": {
-      "name": "Is it Mist or Clouds?",
-      "description": "Come now, come now ~ Let's go and see them ~",
+      "name": "Здесь туманно или облачно?",
+      "description": "Ну пойдём же, пойдём ~ Давай на них посмотрим ~",
       "condition": "Доберитесь до Sakura Path через Shinto Shrine."
     },
     "maiko_sakura_forest": {
@@ -5954,9 +5954,9 @@
       "condition": "Reach the Chainlink Path of Garden World from Purple World"
     },
     "gachapon_plains": {
-      "name": "Capsules",
-      "description": "I got the one I wanted! Yay!",
-      "condition": "Visit Gachapon Plains"
+      "name": "Капсулы",
+      "description": "Попалась та, которую я и хотела! Ура!",
+      "condition": "Посетите Gachapon Plains"
     },
     "insect_clover_ponds": {
       "name": "The Pond Dancing Bugs",
@@ -6718,9 +6718,9 @@
       "condition": "Obtain the menu type 104. If you have already unlocked it, return where it can be found in Frozen Stratosphere."
     },
     "crowbar_abyss": {
-      "name": "Untrusty Hardware",
-      "description": "We were not in fact, ready for unforeseen consequences.",
-      "condition": "Visit Crowbar Abyss"
+      "name": "Ненадёжные инструменты",
+      "description": "И всё же мы не были готовы к неожиданным последствиям.",
+      "condition": "Посетите Crowbar Abyss"
     },
     "outlook_heartclipse_sea_sniper": {
       "name": "All I can see is red...",
@@ -7222,9 +7222,9 @@
       "condition": "Obtain the menu type 99. If you have already unlocked it, return where it can be found in Radiant Waters."
     },
     "mint_town": {
-      "name": "Chasing the Mint Breeze",
-      "description": "Where the windmills sing and the air smells like mint.",
-      "condition": "Visit Mint Town"
+      "name": "В погоне за мятным бризом",
+      "description": "Там, где поют мельницы, а ветер пахнет мятой.",
+      "condition": "Посетите Mint Town"
     },
     "house_holographic_reef": {
       "name": "Crystallized Echo Chamber",
@@ -7315,9 +7315,9 @@
       "condition": "Interact with the jade rune in Jade Dunes"
     },
     "pop_revoir": {
-      "name": "Plastic Blues",
-      "description": "\"I guess trees are blue now.\"",
-      "condition": "Visit Pop Revoir"
+      "name": "Пластичная синева",
+      "description": "\"Кажется, деревья теперь синие.\"",
+      "condition": "Посетите Pop Revoir"
     },
     "pink_house_pastel_dream_sea": {
       "name": "Pink House Under The Sea",
@@ -7866,8 +7866,8 @@
       "condition": "Interact with Pupula-Toru in 4 different states (awake, sleeping, looking down, lying down)"
     },
     "space_2kki": {
-      "name": "Lost in Space",
-      "condition": "Reach Space"
+      "name": "Пропавшая в космосе",
+      "condition": "Доберитесь до Space"
     },
     "dancing_queen": {
       "name": "Миф о завтрашнем дне",
@@ -9181,7 +9181,7 @@
       "condition": "Equip the Akama Witch mask in Jigsaw Puzzle World"
     },
     "shoal_blue_cactus": {
-      "name": "Умиротворённая жизнь",
+      "name": "Жизнь в умиротворении",
       "description": "Один раз сюда попадёшь, и уходить куда-то больше не захочется.",
       "condition": "Посетите Blue Cactus Islands"
     },
